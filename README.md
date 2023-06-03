@@ -1,4 +1,4 @@
-# kvoroshylova.github.io
+# Shop Wizard Bot
 
 The Shop Wizard Bot is a Telegram bot designed to help users manage their shopping lists, contacts, and stay informed 
 about the weather in their city. It aims to provide convenience and efficiency in organizing shopping essentials and 
