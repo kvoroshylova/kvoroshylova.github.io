@@ -30,9 +30,9 @@ Show List Commands:
     /create_list - Create a new shopping list. Usage: /create_list <list_name>.  
     /remove_list - Remove an existing shopping list. Usage: /remove_list <list_name>.  
     /edit_list - Rename a shopping list. Usage: /edit_list <old_list_name> <new_list_name>.  
-    /add_item - Add an item to a shopping list. Usage: /add_item <list_name> <item>.  
+    /add_item - Add an item to a shopping list. Usage: /add_item <list_name> <item_name>.  
     /show_items - Show items in a shopping list. Usage: /show_items <list_name>.  
-    /remove_item - Remove an item from a shopping list. Usage: /remove_item <list_name> <item>.  
+    /remove_item - Remove an item from a shopping list. Usage: /remove_item <list_name> <item_name>.  
 Weather Commands:  
     /weather - Get the weather for a city. Usage: /weather <your_city>  
 Contact Book Commands:  
@@ -41,7 +41,7 @@ Contact Book Commands:
     /show - Show the contact from your contact book. Usage: /show <contact_name>  
     /list - Show the list of all your contacts. Usage: /list  
     /delete - Delete a contact from a contact book. Usage: /delete <contact_name>  
-Replace <list_name>, <item>, <your_city>, <contact_name> with the actual names you want to use.  
+Replace <list_name>, <item_name>, <your_city>, <contact_name> with the actual names you want to use.  
 
 Lending - https://kvoroshylova.github.io/  
 
