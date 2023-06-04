@@ -28,7 +28,7 @@ and organization.
 **The list of commands of the Shop Wizard Bot:**  
 /commands - See all available commands  
 
-_**Show List Commands:_**  
+_Show List Commands:_  
     /create_list - Create a new shopping list. Usage: /create_list <list_name>.  
     /remove_list - Remove an existing shopping list. Usage: /remove_list <list_name>.  
     /edit_list - Rename a shopping list. Usage: /edit_list <old_list_name> <new_list_name>.  
@@ -36,10 +36,10 @@ _**Show List Commands:_**
     /show_items - Show items in a shopping list. Usage: /show_items <list_name>.  
     /remove_item - Remove an item from a shopping list. Usage: /remove_item <list_name> <item_name>. 
 
-_**Weather Commands:_**  
+_Weather Commands:_  
     /weather - Get the weather for a city. Usage: /weather <your_city>  
 
-_**Contact Book Commands:_**  
+_Contact Book Commands:_  
     /add - Add a new contact to your contact book. Usage: /add <first_name> <last_name> <contact_phone>  
     /status - Show amount of contacts in your contact book. Usage: /status  
     /show - Show the contact from your contact book. Usage: /show <first_name> <last_name>  
@@ -50,6 +50,6 @@ Replace <list_name>, <item_name>, <your_city>, <first_name>, <last_name> with th
 
 **_Landing page_** - https://kvoroshylova.github.io/  
 
-**_Link to the Bot_** - https://t.me/shopwizardbot
+**Link to the Bot** - https://t.me/shopwizardbot
 
-**_Backend part_** - https://github.com/kvoroshylova/shop_wizard_bot
+**Backend part** - https://github.com/kvoroshylova/shop_wizard_bot
