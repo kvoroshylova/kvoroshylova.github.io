@@ -19,7 +19,7 @@ users stay informed about the weather conditions in their location, assisting th
 **The list of commands of the Shop Wizard Bot:**  
 /commands - See all available commands  
 
-_Show List Commands:_  
+_Shop List Commands:_  
     /create_list - Create a new shopping list. Usage: /create_list <list_name>.  
     /remove_list - Remove an existing shopping list. Usage: /remove_list <list_name>.  
     /edit_list - Rename a shopping list. Usage: /edit_list <old_list_name> <new_list_name>.  
