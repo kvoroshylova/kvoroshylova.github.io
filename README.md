@@ -1,6 +1,6 @@
 # Shop Wizard Bot
 
-The Shop Wizard Bot is a Telegram bot designed to help users manage their shopping lists, contacts, and stay informed 
+**The Shop Wizard Bot** is a Telegram bot designed to help users manage their shopping lists, contacts, and stay informed 
 about the weather in their city. It aims to provide convenience and efficiency in organizing shopping essentials and 
 maintaining a contact book.
 
@@ -25,10 +25,10 @@ information retrieval. By centralizing these functionalities within a Telegram b
 efficient way to handle their shopping lists, contacts, and stay updated with the weather, enhancing their productivity 
 and organization.
 
-The list of commands of the Shop Wizard Bot:  
+**The list of commands of the Shop Wizard Bot:**  
 /commands - See all available commands  
 
-Show List Commands:  
+_**Show List Commands:_**  
     /create_list - Create a new shopping list. Usage: /create_list <list_name>.  
     /remove_list - Remove an existing shopping list. Usage: /remove_list <list_name>.  
     /edit_list - Rename a shopping list. Usage: /edit_list <old_list_name> <new_list_name>.  
@@ -36,10 +36,10 @@ Show List Commands:
     /show_items - Show items in a shopping list. Usage: /show_items <list_name>.  
     /remove_item - Remove an item from a shopping list. Usage: /remove_item <list_name> <item_name>. 
 
-Weather Commands:  
+_**Weather Commands:_**  
     /weather - Get the weather for a city. Usage: /weather <your_city>  
 
-Contact Book Commands:  
+_**Contact Book Commands:_**  
     /add - Add a new contact to your contact book. Usage: /add <first_name> <last_name> <contact_phone>  
     /status - Show amount of contacts in your contact book. Usage: /status  
     /show - Show the contact from your contact book. Usage: /show <first_name> <last_name>  
@@ -48,8 +48,8 @@ Contact Book Commands:
 
 Replace <list_name>, <item_name>, <your_city>, <first_name>, <last_name> with the actual names you want to use.  
 
-Landing page - https://kvoroshylova.github.io/  
+**_Landing page_** - https://kvoroshylova.github.io/  
 
-Link to the Bot - https://t.me/shopwizardbot
+**_Link to the Bot_** - https://t.me/shopwizardbot
 
-Backend part - https://github.com/kvoroshylova/shop_wizard_bot
+**_Backend part_** - https://github.com/kvoroshylova/shop_wizard_bot
