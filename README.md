@@ -48,7 +48,7 @@ _Contact Book Commands:_
 
 Replace <list_name>, <item_name>, <your_city>, <first_name>, <last_name> with the actual names you want to use.  
 
-**_Landing page_** - https://kvoroshylova.github.io/  
+**Landing page** - https://kvoroshylova.github.io/  
 
 **Link to the Bot** - https://t.me/shopwizardbot
 
