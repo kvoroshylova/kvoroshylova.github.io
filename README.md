@@ -42,11 +42,11 @@ Weather Commands:
 Contact Book Commands:  
     /add - Add a new contact to your contact book. Usage: /add <first_name> <last_name> <contact_phone>  
     /status - Show amount of contacts in your contact book. Usage: /status  
-    /show - Show the contact from your contact book. Usage: /show <contact_name>  
+    /show - Show the contact from your contact book. Usage: /show <first_name> <last_name>  
     /list - Show the list of all your contacts. Usage: /list  
-    /delete - Delete a contact from a contact book. Usage: /delete <contact_name>  
+    /delete - Delete a contact from a contact book. Usage: /delete <first_name> <last_name>   
 
-Replace <list_name>, <item_name>, <your_city>, <contact_name> with the actual names you want to use.  
+Replace <list_name>, <item_name>, <your_city>, <first_name>, <last_name> with the actual names you want to use.  
 
 Landing page - https://kvoroshylova.github.io/  
 
